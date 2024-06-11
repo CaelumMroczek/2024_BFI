@@ -3,19 +3,21 @@
 This repository contains the data and code used in the manuscript titled "Base-flow Index and Recharge Estimation of Ungauged Dryland Basins" submitted to Water Resources Research.
 
 ## Table of Contents
-- [Introduction](#introduction)
+- [Manuscript Summary](#manuscript-summary)
 - [Repository Structure](#repository-structure)
 - [Data](#data)
 - [Code](#code)
-- [Usage](#usage)
-- [Results](#results)
 - [Authors](#authors)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 
-## Introduction
-
-*Provide a brief description of the manuscript and the purpose of this repository.*
+## Manuscript Summary
+- Base flow sustains dryland river ecology, but assessing its groundwater
+contribution faces data limitations
+- Recursive filtering and machine learning predict BFI and streamflow-
+associated recharge
+- Elevation is a key predictor for BFI, likely due to its influence on
+temperature, precipitation patterns, and snow accumulation
 
 ## Repository Structure
 
@@ -33,49 +35,21 @@ This repository contains the data and code used in the manuscript titled "Base-f
 ### Scripts
 *Provide a brief description of each script and its purpose.*
 
-### Notebooks
-*Provide a brief description of each Jupyter notebook and its purpose.*
-
-## Usage
-
-*Provide instructions on how to use the code and data in this repository.*
-
-1. **Clone the repository:**
-    ```bash
-    git clone https://github.com/yourusername/your-repository.git
-    cd your-repository
-    ```
-
-2. **Install necessary dependencies:**
-    *List any dependencies and how to install them (e.g., via `requirements.txt` or `environment.yml`).*
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. **Run the analysis:**
-    *Provide example commands or steps to run the scripts or notebooks.*
-
-## Results
-
-*Summarize the key results obtained from the analysis and link to relevant figures and tables.*
 
 ## Authors
 
-*Provide the names and contact information of the authors.*
-
-- **Your Name** - *Your Role* - [your.email@example.com](mailto:your.email@example.com)
+- **Caelum Mroczek** - *Corresponding Author* - [csm428@nau.edu](mailto:csm428@nau.edu)
+- **Abraham Springer**
+- **Neha Gupta**
+- **Temuulen Sankey**
+- **Benjamin Lucas**
 
 ## License
-
-*Specify the license under which the code and data are released.*
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
-*Provide acknowledgments for any funding, assistance, or other resources that contributed to the project.*
-
-- **Funding Source** - *Grant number*
-- **Collaborators and institutions**
+- **Funding Source** - Arizona Board of Regents’ Grant from the Technology and Research Initiative Fund governed by A.R.S. § 15-1648
+- **Collaborators and institutions** - Northern Arizona University, University of Arizona
 
