@@ -20,7 +20,16 @@ associated recharge
 temperature, precipitation patterns, and snow accumulation
 
 ## Repository Structure
-
+- data
+  - raw_data
+  - processed_data
+- code
+  - scripts
+  - rmarkdown
+- results
+  - figures
+  - tables
+  
 
 ## Data
 
