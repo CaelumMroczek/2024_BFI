@@ -29,7 +29,8 @@ BFI.predictor <- function(input_dataframe, model_path) {
   HUC8_Basins <- project(HUC8_Basins, "+proj=longlat +datum=WGS84")
   
   # Load DEM raster
-  DEM <- rast(here("data/variables/huc8.tif"))
+  ###RASTER IS TOO LARGE, USE 30M RASTER OF AZ
+  #DEM <- rast(here("data/variables/huc8.tif"))
 
   #Load precip csv
   precip_df <- read.csv(here("data/variables/HUC_Precipitation_ANNUAL.csv"))
