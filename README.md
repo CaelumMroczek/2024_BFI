@@ -21,19 +21,19 @@ temperature, precipitation patterns, and snow accumulation
 
 ## Repository Structure
 - data
-  - raw_data
+  - variables
   - processed_data
 - code
   - scripts
-  - rmarkdown
 - results
   - figures
-  - tables
+  - model
+  - output_data
   
 
 ## Data
 
-### Raw Data
+### Variables
 *Describe the raw data files and their sources.*
 
 ### Processed Data
